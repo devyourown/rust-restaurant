@@ -1,9 +1,9 @@
-# Managing Restaurant Seat
+# Managing Restaurant
 
 # Description
-I'm going to make a program which is responsible for 
-booking system.
-This is for learning Rust Programming Language and 
+I'm going to make a program which is responsible for
+operating restaurant system.
+This is for learning Rust Programming Language and
 Object-oriented programming.
 
 # Tech spec
